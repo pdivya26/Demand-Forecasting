@@ -36,6 +36,6 @@ This project focuses on predicting the demand for retail products using machine 
 
 ![Screenshot 2025-04-19 235526](https://github.com/user-attachments/assets/54345193-1a6d-476d-889d-05c2bfcd1864)
 
-![Screenshot 2025-04-20 000324](https://github.com/user-attachments/assets/802a10d8-6091-4f90-8bf0-7b238f0f5fd8)
+![Screenshot 2025-05-12 000740](https://github.com/user-attachments/assets/dbcf9cf6-d072-415f-87f8-4045eba2af2e)
 
 ![Screenshot 2025-04-20 000345](https://github.com/user-attachments/assets/f7d241ee-6b1d-4a5f-8cde-9179fed5b8cd)
