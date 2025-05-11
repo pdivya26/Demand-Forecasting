@@ -1,6 +1,6 @@
 # Demand Forecasting
 
-This project focuses on predicting the demand for retail products using machine learning models like **Random Forest**, **XGBoost**, and **Gradient Boosting**. It aims to support better inventory planning and minimize stockouts or overstock.
+This project focuses on predicting the demand for retail products using machine learning models like **Random Forest**, **XGBoost**, and **Gradient Boosting** with a Streamlit UI. It aims to support better inventory planning and minimize stockouts or overstock.
 
 ## Features
 
