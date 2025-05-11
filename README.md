@@ -2,7 +2,7 @@
 
 This project focuses on predicting the demand for retail products using machine learning models like **Random Forest**, **XGBoost**, and **Gradient Boosting**. It aims to support better inventory planning and minimize stockouts or overstock.
 
-## 📌 Features
+## Features
 
 - Exploratory Data Analysis (EDA)
 - Handling missing values and outliers
