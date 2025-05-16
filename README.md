@@ -11,6 +11,30 @@ This project focuses on predicting the demand for retail products using machine 
 - Performance comparison across models
 - Demand forecasting visualizations
 
+## Models Used
+
+- Random Forest
+- Gradient Boosting
+- XGBoost
+
+## Why These Models Were Used for Demand Forecasting
+
+### Random Forest  
+- Captures non-linear relationships between product features and demand.
+- Robust to missing data, noise, and outliers in sales data.
+- Provides feature importance insights for demand drivers.
+
+### Gradient Boosting  
+
+- Builds models sequentially, reducing bias and variance, which improves forecast accuracy.
+- Handles complex feature interactions common in seasonal or regional demand trends.
+
+### XGBoost  
+
+- Optimized gradient boosting with high speed and accuracy for large datasets.
+- Includes regularization, preventing overfitting on fluctuating demand patterns.
+- Performs well on imbalanced data and can handle categorical and continuous features effectively.
+
 ## Technologies Used
 
 - Python
